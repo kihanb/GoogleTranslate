@@ -6,7 +6,7 @@
  *
  * https://github.com/kihanb/GoogleTranslate
  *
-*/
+*/ 
 
 class GoogleTranslate
 {
