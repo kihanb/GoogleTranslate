@@ -1,3 +1,5 @@
+# Google Translate API:
+
 A Simple Class to Use Google Translate Api
 
 # Usage:
